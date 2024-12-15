@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": "7e59",
+      "name": "Phạm Nhật Minh",
+      "price": "1000",
+      "description": "desc 3"
+    },
+    {
+      "id": "db07",
+      "name": "Product test key",
+      "price": "1000",
+      "description": "An apple mobile which is nothing like apple"
+    }
+  ]
+}
